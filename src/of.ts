@@ -6,5 +6,5 @@ source$.subscribe((val) => {
   console.log(val);
 });
 
-console.log('=====================================');
+
 

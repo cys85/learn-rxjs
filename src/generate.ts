@@ -7,4 +7,4 @@ generate(
   (value) => value + 1,
   (value) => value * 2,
 ).subscribe(console.log);
-console.log('=====================================');
+
