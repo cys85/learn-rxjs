@@ -4,4 +4,6 @@
 // import './repeat';
 // import './repeatWhen';
 // import './interval';
-import './timer';
+// import './timer';
+// import './from';
+import './defer';
