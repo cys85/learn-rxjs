@@ -6,4 +6,7 @@
 // import './interval';
 // import './timer';
 // import './from';
-import './defer';
+// import './defer';
+// import './concatAll';
+// import './margeAll';
+import './zipAll';
