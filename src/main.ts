@@ -8,6 +8,9 @@
 // import './withLatestFrom';
 // import './race';
 // import './startWith';
-import './forkJoin';
-
-
+// import './forkJoin';
+// import './from';
+// import './defer';
+// import './concatAll';
+// import './margeAll';
+import './zipAll';
